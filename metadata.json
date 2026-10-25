@@ -1,0 +1,6 @@
+{
+  "name": "HisabKitab AI",
+  "description": "An ultra-premium, simple, and intuitive personal expense management application designed for effortless tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
